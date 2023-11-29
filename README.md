@@ -1,7 +1,7 @@
 ![WORK05](https://github.com/Livancli/YasukiMaster/assets/66133816/b469a8e3-d297-4cea-b36a-4fbd3ab4a62e)
 
 # Yasuki-Master
-Este é um projeto de página web interativa, focado em notícias e eventos relacionados a jogos épicos, desenvolvido por websilver. O projeto utiliza HTML, CSS e JavaScript para criar uma experiência envolvente e moderna para os usuários.
+Este é um projeto de página web interativa, focado em notícias e eventos relacionados a jogos épicos. O projeto utiliza HTML, CSS e JavaScript para criar uma experiência envolvente e moderna para os usuários.
 
 ## Sobre o Projeto
 O Yasuki-Master oferece informações atualizadas sobre jogos, eventos, notícias e rumores, mantendo os verdadeiros jogadores informados e entretidos. O design é marcado por uma estética moderna, usando gradientes, efeitos de hover e uma barra de navegação móvel.
