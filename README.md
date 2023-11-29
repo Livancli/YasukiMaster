@@ -1,3 +1,5 @@
+![WORK05](https://github.com/Livancli/YasukiMaster/assets/66133816/b469a8e3-d297-4cea-b36a-4fbd3ab4a62e)
+
 # Yasuki-Master
 Este é um projeto de página web interativa, focado em notícias e eventos relacionados a jogos épicos, desenvolvido por websilver. O projeto utiliza HTML, CSS e JavaScript para criar uma experiência envolvente e moderna para os usuários.
 
